@@ -1,7 +1,5 @@
 # 👋 Bem-vindo à SouFacil
 
----
-
 ## 🛠️ Tecnologias utilizadas
 
 As principais tecnologias usadas pela organização incluem:
