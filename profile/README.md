@@ -40,8 +40,6 @@ Os projetos desta organização são distribuídos sob licenças específicas de
 
 ## ⭐ Repositórios em destaque
 
-Você pode destacar aqui alguns projetos importantes:
-
 * `financeira` – Plataforma de crediário
 * `admin-panel` – Plataforma de administração
 * `api` – API principal das plataformas
